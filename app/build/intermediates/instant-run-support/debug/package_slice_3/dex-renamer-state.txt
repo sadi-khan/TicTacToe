@@ -1,0 +1,4 @@
+#Sun Dec 10 08:46:00 BDT 2017
+base.0=D\:\\TicTacToe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+renamed.0=classes.dex
+file.0=D\:\\TicTacToe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22\\classes.dex
